@@ -71,6 +71,7 @@ Installez [VS Code](https://code.visualstudio.com), ainsi que les extensions sui
 - **The Coding Train** (tutos p5.js en anglais, très pédagogiques) — [thecodingtrain.com](https://thecodingtrain.com)
 - **OpenProcessing** (galerie et éditeur en ligne pour p5.js/Processing) — [openprocessing.org](https://openprocessing.org)
 - **Can I Use** (compatibilité navigateurs des fonctionnalités CSS/JS) — [caniuse.com](https://caniuse.com)
+- **Google Webfonts Helper** (permet d'intégrer les Google Fonts sans le CDN de Google) —  [gwfh.mranftl.com](https://gwfh.mranftl.com/fonts)
 
 ---
 
