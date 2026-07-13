@@ -73,12 +73,14 @@ img:not([src]) {
 
 /* Exemple d'intégration de font */
 
-/* Inter Variable */
+/* Inter Variable 
+https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Fonts/Variable_fonts
+*/
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
   font-family: 'Inter';
   font-style: normal;
-  font-weight: 400;
+  font-weight: 100 900;
   src: url('../fonts/InterVariable.ttf') format('ttf');
 }
 
@@ -87,7 +89,7 @@ img:not([src]) {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
   font-family: 'Inter';
   font-style: italic;
-  font-weight: 400;
+  font-weight: 100 900;
   src: url('../fonts/InterVariable-Italic.ttf') format('ttf');
 }
 
